@@ -3,8 +3,8 @@ The multiverse-os project has moved! You can find the new repository, website,
 and email at the following:
 
 
-**[Website multiverse-os.org](multiverse-os.org)**
+**[Website @ multiverse-os.org](https://multiverse-os.org)**
 
-[git clone github.com/multiverse-os](github.com/multiverse-os)
+[git clone https://github.com/multiverse-os](https://github.com/multiverse-os)
 
-[Contact us contact@multiverse-os.org](mailto:contact@multiverse-os.org)
+[Send emails to contact@multiverse-os.org](mailto:contact@multiverse-os.org)
